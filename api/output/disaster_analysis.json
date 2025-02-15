@@ -1,0 +1,46 @@
+[
+    {
+        "characteristic": "Type of catastrophe",
+        "description": "A catastrophic event typically involves an unexpected occurrence with devastating physical damage, loss, or displacement of people",
+        "estimated value": "The cost of a natural disaster can range from millions to billions of dollars"
+    },
+    {
+        "characteristic": "Tidal coastal areas",
+        "description": "Areas directly affected by tidal changes are classified as those within 25km of a coast or 1km of a sea shore",
+        "estimated value": "12.7% of the world population lives in coastal areas"
+    },
+    {
+        "characteristic": "Urban area",
+        "description": "An urban area is defined by a high probability of being a commuting area when compared to surrounding rural and commuter areas",
+        "estimated value": "55% of the world's population lives in cities"
+    },
+    {
+        "characteristic": "Rural area",
+        "description": "An isolated area designated outside urban areas",
+        "estimated value": "45% of the world's population lives in rural areas"
+    },
+    {
+        "characteristic": "Damage to Buildings",
+        "description": "Damage to Buildings could vary from minor to complete collapse"
+    },
+    {
+        "characteristic": "Determine number of damaged buildings",
+        "description": "Information will be needed to determine how many structures were damaged and estimate their value in dollars"
+    },
+    {
+        "characteristic": "Rural infrastructure, E.g. Water, electricity, energy facilities",
+        "description": "Damage to these will affect area residents and/or local business"
+    },
+    {
+        "characteristic": "Type of first response required",
+        "description": "The capability of the first response will depend on what type of equipment is required"
+    },
+    {
+        "characteristic": "Number of people displaced",
+        "description": "Information and support will be needed for displaced people"
+    },
+    {
+        "characteristic": "Number of people affected in surrounding areas",
+        "description": "In some natural disaster events, people in the surrounding unscathed areas of the disaster zone will be affected due to the costs of evacuation or the possible need to evacuate if the disaster zone situation worsens"
+    }
+]
