@@ -1,10 +1,25 @@
-export const IMAGE_CLASSIFICATION_PROMPT = `You are an expert image classifier. Analyze the provided images and:
-1. Describe what you see in each image in detail
-2. Identify any notable objects, people, or elements
-3. Determine the overall theme or context
-4. Note any interesting patterns or relationships between multiple images if present
-5. Suggest potential use cases or applications for these images
+export const IMAGE_CLASSIFICATION_PROMPT = `Given an image of this disaster, create a json filling out the following characteristics. Provide numeric estimates of events, or brief descriptions or yes/no. Do not be vague, and specify a reasonable number or number range. Do not include the information section if one exists for a certain parameter, and just the parameter with its value.
 
-Please provide a structured, clear analysis that covers all these aspects.`;
+Parameter, Information:
+Description, One sentence description of event
+Disaster Type, Type of disaster (water, fire, earthquake, drought, demolition, etc.)
+Region, Type of region (urban, rural, etc.)
+Damaged Buildings, Number of damaged buildings
+Damaged Vehicles, Number of damaged vehicles
+Financial Burden, Financial cost of affected region (in USD)
+Displaced People, number of displaced people
+Recovery Personnel 
+Equipment, What equipment is needed (water, food, cranes etc.)
+Response Time
+Disaster Cause
+Medical Aid Needed
+Insurance Claims, estimated cost of insurance claims
+Weather
+
+Make your first row the parameters, and the second row its values. Please output your json in <json></json> tags.
+
+Example of some image:
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Severe flooding caused by torrential rains", "Water", "Urban", 150, 30, $5000000, 2000, "Emergency services, volunteers", "Water, food, medical supplies, rescue boats", "8-22 hours", "Heavy rainfall", "Yes", 2000000, "Rainy"`;
 
 export const CACHE_TTL = 3600; // 1 hour in seconds 
