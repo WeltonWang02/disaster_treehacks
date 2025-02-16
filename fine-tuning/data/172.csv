@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Severe flooding due to unprecedented rainfall", "Water", "Urban", 120, 50, $6000000, 3000, "National Guard, volunteers", "Water, food, medical supplies, pumps", "6-12 hours", "Torrential rain", "Yes", 2500000, "Rainy"

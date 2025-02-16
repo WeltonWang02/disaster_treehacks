@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Severe flooding caused by heavy rains", "Water", "Urban", 120, 25, $7500000, 1500, "Firefighters, volunteers, local authorities", "Water, food, medical supplies, pumps", "5-12 hours", "Torrential rainfall", "Yes", $1500000, "Rainy"
+```

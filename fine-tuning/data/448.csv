@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Severe flooding resulting from prolonged heavy rains", "Water", "Urban", 120, 45, $4000000, 1500, "Local government, NGOs", "Water, food, medical supplies, pumps", "6-12 hours", "Prolonged heavy rainfall", "Yes", 1800000, "Rainy"
+```

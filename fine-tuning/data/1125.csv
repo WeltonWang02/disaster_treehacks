@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Severe flooding due to tropical storm causing widespread damage", "Water", "Urban", 120, 45, $30000000, 1500, "Firefighters, volunteers, NGOs", "Water, food, medical supplies, pumps", "12-24 hours", "Tropical storm", "Yes", 5000000, "Stormy"

@@ -1,2 +1,2 @@
-Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
-"Severe earthquake causing widespread destruction", "Earthquake", "Urban", 1200, 450, $300000000, 50000, "Rescue teams, volunteers", "Cranes, medical supplies, food, water, blankets", "24-48 hours", "Tectonic activity", "Yes", 180000000, "Clear"
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Destructive wildfire sweeping through residential areas", "Fire", "Rural", 75, 50, $15000000, 3000, "Firefighters, volunteers, Red Cross", "Firefighting equipment, water tanks, food, shelter", "12-36 hours", "Arson or lightning strike", "Yes", 8000000, "Dry and windy"

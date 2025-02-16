@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Massive earthquake resulting in widespread destruction", "Earthquake", "Urban", 1200, 500, $75000000, 5000, "Emergency teams, volunteers, military", "Crane, medical supplies, food, water", "12-48 hours", "Tectonic activity", "Yes", $30000000, "Clear with aftershocks"

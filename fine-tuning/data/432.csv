@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Large wildfire engulfing residential areas", "Fire", "Rural", 75, 40, $3000000, 1500, "Firefighters, volunteers", "Water, fire retardant, medical supplies", "12-48 hours", "Dry lightning", "Yes", 1000000, "Dry and windy"

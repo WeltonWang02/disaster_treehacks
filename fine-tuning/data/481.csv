@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather  
+"Severe flooding in the city due to continuous rain", "Water", "Urban", 120, 45, $7500000, 3000, "Local emergency services, military units", "Water, food, medical supplies, sandbags", "12-24 hours", "Prolonged heavy rainfall", "Yes", 2500000, "Rainy"

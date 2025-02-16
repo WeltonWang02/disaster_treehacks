@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Severe flooding due to heavy monsoon rains","Water","Urban",200,50,"$8,000,000",3000,"Emergency services, local NGOs","Water, food, medical supplies, pumps, rescue boats","12-24 hours","Monsoon rains","Yes","$3,500,000","Rainy"

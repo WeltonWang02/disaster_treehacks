@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Severe earthquake caused significant structural damage and casualties", "Earthquake", "Urban", 300, 150, $100000000, 5000, "Firefighters, medical teams, volunteers", "Cranes, medical supplies, food, water", "24-48 hours", "Tectonic plate movement", "Yes", 40000000, "Clear skies"
+```

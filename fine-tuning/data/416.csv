@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Severe earthquakes resulted in major structural damage", "Earthquake", "Urban", 300, 50, $100000000, 5000, "Search and rescue teams, construction workers", "Heavy machinery, food, medical supplies, tents", "12-48 hours", "Tectonic activity", "Yes", 50000000, "Clear with aftershocks"

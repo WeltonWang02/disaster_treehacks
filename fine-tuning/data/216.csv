@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Tornado caused significant destruction in local neighborhoods", "Wind", "Urban", 75, 50, $8000000, 1500, "Emergency responders, volunteers", "Shelter, food, medical supplies, debris removal equipment", "4-12 hours", "Severe thunderstorms", "Yes", 3000000, "Stormy"
+```

@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Massive earthquake resulted in widespread destruction and panic", "Earthquake", "Urban", 500, 100, $200000000, 15000, "Emergency responders, military units, NGOs", "Rescue teams, medical supplies, heavy machinery", "1-3 hours", "Tectonic shifts", "Yes", 50000000, "Clear"
+```

@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Significant wildfire leading to extensive property damage", "Fire", "Rural", 300, 50, $8000000, 5000, "Firefighters, volunteers", "Firefighting equipment, water, food, shelter", "12-36 hours", "Dry conditions and strong winds", "Yes", 4000000, "Hot and dry"
+```

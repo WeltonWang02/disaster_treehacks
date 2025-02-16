@@ -9,7 +9,7 @@ from openai import OpenAI
 from PIL import Image 
 from ratelimit import limits, sleep_and_retry  
 
-API_KEY =     "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"
+API_KEY = "[INSERT API KEY]"
 
 PROMPT = """Given an image of this disaster, create a CSV filling out the following characteristics. Provide numeric estimates of events, or brief descriptions or yes/no. Do not be vague, and specify a reasonable number or number range. Do not include the information section if one exists for a certain parameter, and just the parameter with its value.
 
@@ -56,8 +56,6 @@ def b64_local(image_path):
     base64_encoded = base64.b64encode(image_data).decode('utf-8')
     return base64_encoded
 
-@sleep_and_retry
-@limits(calls=3, period=60)
 def call_api(messages):
     return client.chat.completions.create(
         messages=messages,
@@ -65,13 +63,13 @@ def call_api(messages):
     )
 
 def process_image(image_number):
-    image_path = f"{image_number}.png"
+    image_path = f"fine-tuning/data/{image_number}.png"
     
     if not os.path.exists(image_path):
         print(f"Image not found: {image_path}")
         return
 
-    csv_filename = f"{image_number}.csv"
+    csv_filename = f"fine-tuning/data/{image_number}.csv"
     if os.path.exists(csv_filename):
         return
 
@@ -106,7 +104,7 @@ def process_image(image_number):
 def main():
     total_images = 1200
     max_workers = 10
-    start_image = 78
+    start_image = 107
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [executor.submit(process_image, i) for i in range(start_image, total_images + 1)]
         for future in concurrent.futures.as_completed(futures):

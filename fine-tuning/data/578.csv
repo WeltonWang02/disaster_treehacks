@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Massive wildfire sweeping through residential areas","Fire","Urban",120,45,"$12,000,000",800,"Firefighters, volunteers","Fire trucks, water hoses, medical supplies","2-3 hours","Dry conditions, high winds","Yes","$4,500,000","Sunny, windy"
