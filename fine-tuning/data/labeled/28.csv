@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Severe flooding in residential areas due to prolonged heavy rains", "Water", "Urban", 100, 25, $4000000, 1500, "Firefighters, Red Cross staff", "Water pumps, food supplies, medical kits, boats", "12-24 hours", "Continuous rainfall", "Yes", $1500000, "Rainy"
+```
