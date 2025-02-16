@@ -1,2 +1,0 @@
-Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
-"Severe earthquake causing widespread destruction","Earthquake","Urban",250,50,"$20,000,000",5000,"Emergency services, urban search and rescue teams","Heavy machinery, food, medical supplies, temporary shelters","1-4 hours","Tectonic movement","Yes","$10,000,000","Clear with aftershocks"

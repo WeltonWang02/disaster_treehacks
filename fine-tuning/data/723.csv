@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Destructive wildfire destroying forests and homes", "Fire", "Rural", 120, 45, $8000000, 3500, "Firefighters, volunteers, National Guard", "Fire trucks, water supplies, food, medical relief", "12-36 hours", "Prolonged drought and high winds", "Yes", 3000000, "Hot and dry"
-```

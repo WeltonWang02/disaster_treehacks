@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Destructive wildfire affecting multiple residential areas", "Fire", "Rural", 75, 45, $12000000, 1500, "Firefighters, volunteers, local authorities", "Water, fire retardants, protective gear", "24-48 hours", "Dry conditions, high winds", "Yes", 5000000, "Hot and windy"
-```

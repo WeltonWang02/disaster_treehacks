@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Tornado outbreak resulting in widespread destruction", "Wind", "Rural", 75, 50, $8000000, 1500, "FEMA, local emergency services", "Tents, food, medical supplies, chainsaws", "24-48 hours", "Tornadoes", "Yes", 3000000, "Clear skies with high winds"
-```

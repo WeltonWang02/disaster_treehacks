@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Severe flooding caused by unprecedented rainfall", "Water", "Urban", 200, 50, $7500000, 3000, "Emergency responders, local volunteers", "Water, food, medical supplies, sandbags, drain equipment", "6-12 hours", "Uncontrolled rainfall", "Yes", 2500000, "Rainy"
-```

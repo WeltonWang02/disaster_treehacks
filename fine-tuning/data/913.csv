@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Severe flooding causing widespread destruction in urban areas", "Water", "Urban", 120, 45, $7500000, 3000, "Emergency services, volunteers", "Water, food, medical supplies, sandbags", "12-24 hours", "Continuous heavy rainfall", "Yes", 3000000, "Rainy"
-```

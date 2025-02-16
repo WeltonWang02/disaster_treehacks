@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Tornado caused widespread destruction", "Weather", "Urban", 200, 50, $8000000, 3000, "Emergency services, volunteers", "Cranes, medical supplies, food, shelter", "24-48 hours", "Tornado", "Yes", 3000000, "Clear skies with gusty winds"
-```

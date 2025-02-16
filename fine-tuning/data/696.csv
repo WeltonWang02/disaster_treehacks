@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Massive wildfires devastated the forest and surrounding towns", "Fire", "Rural", 120, 45, $10000000, 1500, "Firefighters, volunteers", "Firefighting equipment, water, food, shelter", "24-48 hours", "Extreme heat and drought", "Yes", 3000000, "Hot and dry"
-```

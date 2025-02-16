@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Severe flooding from tropical storm", "Water", "Urban", 300, 50, $8000000, 4000, "Emergency services, military units", "Water, food, medical supplies, boats", "6-12 hours", "Tropical storm", "Yes", 3000000, "Rainy"
-```

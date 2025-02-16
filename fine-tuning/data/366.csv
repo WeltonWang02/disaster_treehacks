@@ -1,2 +1,0 @@
-Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
-"Severe flooding following a series of thunderstorms", "Water", "Urban", 120, 40, $7200000, 3000, "Fire department, local government", "Water, food, medical supplies, sandbags", "4-10 hours", "Torrential rain", "Yes", 1800000, "Cloudy with heavy rain"

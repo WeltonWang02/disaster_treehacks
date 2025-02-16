@@ -1,2 +1,0 @@
-Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
-"Building collapse due to earthquake", "Earthquake", "Urban", 10, 5, $1500000, 50, "Emergency services, structural engineers", "Cranes, medical supplies, food, water", "2-4 hours", "Seismic activity", "Yes", 800000, "Clear"

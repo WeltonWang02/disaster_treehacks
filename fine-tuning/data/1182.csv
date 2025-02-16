@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Severe flooding caused by prolonged heavy rains leading to local river overflow", "Water", "Urban", 100, 50, $3500000, 1500, "Firefighters, volunteers, local NGOs", "Water, food, medical supplies, extraction pumps", "12-24 hours", "Excessive rainfall", "Yes", 1500000, "Rainy"
-```

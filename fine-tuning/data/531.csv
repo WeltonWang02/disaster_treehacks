@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Massive earthquake leading to widespread destruction", "Earthquake", "Urban", 300, 150, $120000000, 10000, "Emergency services, military personnel", "Rescue equipment, medical supplies, food, water", "24-48 hours", "Tectonic shifts", "Yes", 30000000, "Partly cloudy"
-```

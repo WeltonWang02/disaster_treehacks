@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Severe flooding due to extreme rainfall inundating streets and homes", "Water", "Urban", 120, 45, $3000000, 1500, "Firefighters, volunteers, local government", "Water pumps, food, medical supplies, rescue boats", "6-12 hours", "Extreme rainfall", "Yes", 1500000, "Rainy"
-```

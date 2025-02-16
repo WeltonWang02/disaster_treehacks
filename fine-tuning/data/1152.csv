@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Severe flooding resulting from excessive rainfall", "Water", "Urban", 120, 45, $7000000, 3000, "Emergency services, urban search and rescue teams", "Water, food, medical supplies, rescue boats", "12-36 hours", "Intense rainfall and poor drainage", "Yes", 2500000, "Rainy"
-```

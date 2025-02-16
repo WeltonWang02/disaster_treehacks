@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Tornado destruction in a residential area", "Wind", "Urban", 100, 50, $8500000, 1500, "FEMA, local emergency services", "Debris removal equipment, food, medical supplies, temporary shelter", "2-6 hours", "Tornado", "Yes", 3000000, "Clear skies, high winds"
-```

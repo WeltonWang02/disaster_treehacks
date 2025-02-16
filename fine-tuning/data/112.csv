@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Substantial flooding due to continuous heavy rainfall", "Water", "Urban", 120, 45, $3500000, 1500, "Rescue teams, local volunteers", "Water, food, medical supplies, sandbags", "6-12 hours", "Prolonged heavy rains", "Yes", 1800000, "Wet"
-```

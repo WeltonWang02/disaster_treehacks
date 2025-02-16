@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Severe flooding caused by torrential rains resulting in extensive damage", "Water", "Urban", 180, 45, $6000000, 3000, "Emergency response teams, volunteers", "Water, food, first aid supplies, inflatable boats", "6-12 hours", "Heavy rainfall", "Yes", 2500000, "Rainy"
-```

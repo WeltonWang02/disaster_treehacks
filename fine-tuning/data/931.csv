@@ -1,4 +1,0 @@
-```csv
-Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
-"Extensive wildfire destruction spreading through forested areas", "Fire", "Rural", 100, 50, $12000000, 1500, "Firefighters, disaster response teams", "Firefighting equipment, water, food, medical supplies", "24-48 hours", "Dry weather, high winds", "Yes", 5000000, "Hot and dry"
-```
