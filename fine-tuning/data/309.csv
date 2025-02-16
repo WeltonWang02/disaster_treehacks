@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Major earthquake causing extensive structural damage", "Earthquake", "Urban", 1200, 250, $300000000, 50000, "Search and rescue teams, medical personnel", "Crane trucks, medical supplies, food, water", "24-48 hours", "Tectonic plate shift", "Yes", 150000000, "Clear skies"
+```

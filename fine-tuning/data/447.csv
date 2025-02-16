@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Severe wildfires affecting residential areas", "Fire", "Rural", 300, 50, $12000000, 5000, "Firefighters, volunteers, disaster response teams", "Fire suppression equipment, food, medical supplies", "24-48 hours", "Prolonged drought and high winds", "Yes", 3000000, "Dry and windy"

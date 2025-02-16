@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Tornado causing extensive destruction to homes and infrastructure", "Wind", "Urban", 75, 15, $10000000, 500, "FEMA, local volunteers", "Debris removal, food, medical supplies, temporary shelters", "1-3 hours", "Tornado", "Yes", 3000000, "Clear skies turning stormy"
+```

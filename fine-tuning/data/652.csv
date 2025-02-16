@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Tornado caused extensive damage to homes and businesses", "Weather", "Urban", 75, 40, $8000000, 1500, "Local emergency services, volunteers", "Food, water, medical supplies, debris removal equipment", "1-3 hours", "Tornado", "Yes", 3000000, "Clear"

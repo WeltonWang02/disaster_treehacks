@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Severe flooding due to excessive rainfall and river overflow", "Water", "Urban", 120, 50, $7500000, 1800, "Emergency responders, local volunteers", "Water, food, medical supplies, inflatable boats", "6-12 hours", "Heavy rainfall and river overflow", "Yes", 1500000, "Rainy"
+```

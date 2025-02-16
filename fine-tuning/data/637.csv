@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Severe flooding resulting from heavy rainfall and storms", "Water", "Urban", 75, 50, $3000000, 1500, "Firefighters, Red Cross volunteers", "Water, food, medical supplies, boats", "12-24 hours", "Torrential rain and storms", "Yes", 1200000, "Stormy"
+```

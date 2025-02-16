@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Major earthquake causing significant structural damage", "Earthquake", "Urban", 500, 150, $150000000, 10000, "Emergency services, trained rescue teams", "Heavy machinery, medical supplies, tents", "1-4 hours", "Tectonic plate movement", "Yes", 50000000, "Clear skies"

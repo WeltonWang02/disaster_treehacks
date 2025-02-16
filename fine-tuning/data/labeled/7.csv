@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Destructive earthquake causing widespread damage", "Earthquake", "Urban", 500, 100, $200000000, 5000, "Emergency services, military personnel", "Cranes, medical supplies, food, water", "2-4 hours", "Tectonic activity", "Yes", 75000000, "Clear skies before disaster"
+```

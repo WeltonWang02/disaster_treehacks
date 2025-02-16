@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Severe flooding caused by unexpected tropical storm", "Water", "Urban", 120, 45, $7500000, 1800, "Firefighters, volunteers, military", "Water, food, medical supplies, boats, sandbags", "6-12 hours", "Tropical storm", "Yes", 2500000, "Stormy"
+```

@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Severe flooding resulting from a hurricane", "Water", "Urban", 300, 80, $12000000, 5000, "Emergency services, local volunteers", "Water pumps, food, medical supplies, boats", "5-12 hours", "Hurricane winds and heavy rainfall", "Yes", 5000000, "Stormy"

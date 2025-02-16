@@ -1,0 +1,4 @@
+```csv
+Description, Disaster Type, Region, Damaged Buildings, Damaged Vehicles, Financial Burden, Displaced People, Recovery Personnel, Equipment, Response Time, Disaster Cause, Medical Aid Needed, Insurance Claims, Weather
+"Tornado causing destruction in residential areas", "Wind", "Urban", 75, 40, $12000000, 1500, "Firefighters, paramedics, volunteers", "Food, water, medical supplies, shelter", "1-3 hours", "Tornado", "Yes", 5000000, "Stormy"
+```

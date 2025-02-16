@@ -1,0 +1,2 @@
+Description,Disaster Type,Region,Damaged Buildings,Damaged Vehicles,Financial Burden,Displaced People,Recovery Personnel,Equipment,Response Time,Disaster Cause,Medical Aid Needed,Insurance Claims,Weather
+"Destructive wildfire that swept through a residential area", "Fire", "Urban", 75, 50, $12000000, 500, "Firefighters, volunteers", "Firefighting equipment, food, water, medical supplies", "Within 24 hours", "Drought conditions and high winds", "Yes", 3000000, "Dry and windy"
